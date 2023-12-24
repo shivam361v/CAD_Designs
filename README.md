@@ -1,7 +1,7 @@
 # CAD_Designs
 #It is an Repository of CAD Design of Robot Arm On Complition. It will look something like this.  
 
-800 kv BLDC motor
+800 kv BLDC customized motor
 ![Screenshot (12)](https://github.com/shivam361v/CAD_Designs/assets/123078985/b6969c33-ee78-4b9c-8a88-922dd361c6f2)
 
 This is an Isometric View of Robot Arm
